@@ -136,15 +136,6 @@ Core entities include:
 5. **Open the application**
    - Navigate to the link shown or press `o` then `enter` to open the website inside your browser.
 
-### Production Build (Optional)
-
-```bash
-npm run build
-npm start
-```
-
----
-
 ## License
 
 This project is for educational purposes. Licensing details can be added later if the project evolves further.
